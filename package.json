@@ -4,6 +4,8 @@
   "description": "test webpack with multi version npm packages",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "npm run build && node out/bundle.js",
     "p": "lerna publish"
   },
   "repository": {
@@ -17,6 +19,12 @@
   },
   "homepage": "https://github.com/csbun/webpack-npm-multi-version-example#readme",
   "devDependencies": {
-    "lerna": "^2.0.0"
+    "lerna": "^2.0.0",
+    "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "webpack-npm-multi-version-pkg-a": "^1.0.0",
+    "webpack-npm-multi-version-pkg-b": "^2.0.0",
+    "webpack-npm-multi-version-pkg-c": "^2.0.0"
   }
 }
