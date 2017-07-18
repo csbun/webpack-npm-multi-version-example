@@ -1,0 +1,22 @@
+{
+  "name": "webpack-npm-multi-version-example",
+  "version": "1.0.0",
+  "description": "test webpack with multi version npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csbun/webpack-npm-multi-version-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csbun/webpack-npm-multi-version-example/issues"
+  },
+  "homepage": "https://github.com/csbun/webpack-npm-multi-version-example#readme",
+  "devDependencies": {
+    "lerna": "^2.0.0"
+  }
+}
