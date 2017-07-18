@@ -4,7 +4,7 @@
   "description": "test webpack with multi version npm packages",
   "main": "index.js",
   "scripts": {
-    "p": "lerna p"
+    "p": "lerna publish"
   },
   "repository": {
     "type": "git",
