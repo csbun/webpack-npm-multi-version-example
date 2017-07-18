@@ -1,6 +1,6 @@
 {
   "name": "webpack-npm-multi-version-pkg-c",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "webpack-npm-multi-version-pkg-a": "^1.2.0",
-    "webpack-npm-multi-version-pkg-b": "^1.2.0"
+    "webpack-npm-multi-version-pkg-a": "^2.0.0",
+    "webpack-npm-multi-version-pkg-b": "^2.0.0"
   }
 }
