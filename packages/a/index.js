@@ -1,4 +1,4 @@
-const version = '1.2.0';
+const version = '2.1.0';
 
 module.exports = function() {
   console.log('pkg-a: ' + version);
