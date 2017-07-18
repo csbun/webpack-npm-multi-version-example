@@ -1,4 +1,4 @@
-const version = '2.2.2';
+const version = '2.1.3';
 const pkgA = require('webpack-npm-multi-version-pkg-a');
 const pkgB = require('webpack-npm-multi-version-pkg-b');
 
