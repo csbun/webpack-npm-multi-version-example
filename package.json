@@ -4,7 +4,7 @@
   "description": "test webpack with multi version npm packages",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "p": "lerna p"
   },
   "repository": {
     "type": "git",
